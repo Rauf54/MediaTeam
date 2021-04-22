@@ -7,6 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B0DA37D226315E8B00B8B169 /* Cam 2 #8 Zoom Out Left.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37C526315E8B00B8B169 /* Cam 2 #8 Zoom Out Left.mp4 */; };
+		B0DA37D326315E8B00B8B169 /* Cam 2 #6 Zoom Out.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37C626315E8B00B8B169 /* Cam 2 #6 Zoom Out.mp4 */; };
+		B0DA37D426315E8B00B8B169 /* Cam 2 #4 Zoom In Down.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37C726315E8B00B8B169 /* Cam 2 #4 Zoom In Down.mp4 */; };
+		B0DA37D526315E8B00B8B169 /* Cam 2 #10 Zoom Out Down.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37C826315E8B00B8B169 /* Cam 2 #10 Zoom Out Down.mp4 */; };
+		B0DA37D626315E8B00B8B169 /* Cam 2 #11 Pan Left to Right.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37C926315E8B00B8B169 /* Cam 2 #11 Pan Left to Right.mp4 */; };
+		B0DA37D726315E8B00B8B169 /* Cam 2 #12 Pan Right to Left.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CA26315E8B00B8B169 /* Cam 2 #12 Pan Right to Left.mp4 */; };
+		B0DA37D826315E8B00B8B169 /* Cam 2 #1 Zoom In.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CB26315E8B00B8B169 /* Cam 2 #1 Zoom In.mp4 */; };
+		B0DA37D926315E8B00B8B169 /* Cam 2 #2 Zoom in Left.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CC26315E8B00B8B169 /* Cam 2 #2 Zoom in Left.mp4 */; };
+		B0DA37DA26315E8B00B8B169 /* Cam 2 #7 Zoom Out Right.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CD26315E8B00B8B169 /* Cam 2 #7 Zoom Out Right.mp4 */; };
+		B0DA37DB26315E8B00B8B169 /* Cam 2 #15 Standard Sermon Shot.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CE26315E8B00B8B169 /* Cam 2 #15 Standard Sermon Shot.mp4 */; };
+		B0DA37DC26315E8B00B8B169 /* Cam 2 #13 Wide Tilt Down.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37CF26315E8B00B8B169 /* Cam 2 #13 Wide Tilt Down.mp4 */; };
+		B0DA37DD26315E8B00B8B169 /* Cam 2 #3 Zoom In Right.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37D026315E8B00B8B169 /* Cam 2 #3 Zoom In Right.mp4 */; };
+		B0DA37DE26315E8B00B8B169 /* Cam 2 #14 After Video Sermon Push In.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37D126315E8B00B8B169 /* Cam 2 #14 After Video Sermon Push In.mp4 */; };
+		B0DA37F326315E9E00B8B169 /* Camera 3.3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E026315E9E00B8B169 /* Camera 3.3.mp4 */; };
+		B0DA37F426315E9E00B8B169 /* Camera 3.2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E126315E9E00B8B169 /* Camera 3.2.mp4 */; };
+		B0DA37F526315E9E00B8B169 /* Camera 3.1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E226315E9E00B8B169 /* Camera 3.1.mp4 */; };
+		B0DA37F626315E9E00B8B169 /* Camera 3.19.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E326315E9E00B8B169 /* Camera 3.19.mp4 */; };
+		B0DA37F726315E9E00B8B169 /* Camera 3.5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E426315E9E00B8B169 /* Camera 3.5.mp4 */; };
+		B0DA37F826315E9E00B8B169 /* Camera 3.4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E526315E9E00B8B169 /* Camera 3.4.mp4 */; };
+		B0DA37F926315E9E00B8B169 /* Camera 3.18.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E626315E9E00B8B169 /* Camera 3.18.mp4 */; };
+		B0DA37FA26315E9E00B8B169 /* Camera 3.6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E726315E9E00B8B169 /* Camera 3.6.mp4 */; };
+		B0DA37FB26315E9E00B8B169 /* Camera 3.7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E826315E9E00B8B169 /* Camera 3.7.mp4 */; };
+		B0DA37FC26315E9E00B8B169 /* Camera 3.16.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37E926315E9E00B8B169 /* Camera 3.16.mp4 */; };
+		B0DA37FD26315E9E00B8B169 /* Camera 3.17.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37EA26315E9E00B8B169 /* Camera 3.17.mp4 */; };
+		B0DA37FE26315E9E00B8B169 /* Camera 3.15.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37EB26315E9E00B8B169 /* Camera 3.15.mp4 */; };
+		B0DA37FF26315E9E00B8B169 /* Camera 3.9.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37EC26315E9E00B8B169 /* Camera 3.9.mp4 */; };
+		B0DA380026315E9E00B8B169 /* Camera 3.8.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37ED26315E9E00B8B169 /* Camera 3.8.mp4 */; };
+		B0DA380126315E9E00B8B169 /* Camera 3.14.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37EE26315E9E00B8B169 /* Camera 3.14.mp4 */; };
+		B0DA380226315E9E00B8B169 /* Camera 3.10.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37EF26315E9E00B8B169 /* Camera 3.10.mp4 */; };
+		B0DA380326315E9E00B8B169 /* Camera 3.11.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37F026315E9E00B8B169 /* Camera 3.11.mp4 */; };
+		B0DA380426315E9E00B8B169 /* Camera 3.13.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37F126315E9E00B8B169 /* Camera 3.13.mp4 */; };
+		B0DA380526315E9E00B8B169 /* Camera 3.12.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA37F226315E9E00B8B169 /* Camera 3.12.mp4 */; };
+		B0DA381426315EB400B8B169 /* Camera 4.10.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380726315EB400B8B169 /* Camera 4.10.mp4 */; };
+		B0DA381526315EB400B8B169 /* Camera 4.11.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380826315EB400B8B169 /* Camera 4.11.mp4 */; };
+		B0DA381626315EB400B8B169 /* Camera 4.13.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380926315EB400B8B169 /* Camera 4.13.mp4 */; };
+		B0DA381726315EB400B8B169 /* Camera 4.12.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380A26315EB400B8B169 /* Camera 4.12.mp4 */; };
+		B0DA381826315EB400B8B169 /* Camera 4.6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380B26315EB400B8B169 /* Camera 4.6.mp4 */; };
+		B0DA381926315EB400B8B169 /* Camera 4.7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380C26315EB400B8B169 /* Camera 4.7.mp4 */; };
+		B0DA381A26315EB400B8B169 /* Camera 4.5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380D26315EB400B8B169 /* Camera 4.5.mp4 */; };
+		B0DA381B26315EB400B8B169 /* Camera 4.4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380E26315EB400B8B169 /* Camera 4.4.mp4 */; };
+		B0DA381C26315EB400B8B169 /* Camera 4.1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA380F26315EB400B8B169 /* Camera 4.1.mp4 */; };
+		B0DA381D26315EB400B8B169 /* Camera 4.3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA381026315EB400B8B169 /* Camera 4.3.mp4 */; };
+		B0DA381E26315EB400B8B169 /* Camera 4.2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA381126315EB400B8B169 /* Camera 4.2.mp4 */; };
+		B0DA381F26315EB400B8B169 /* Camera 4.9.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA381226315EB400B8B169 /* Camera 4.9.mp4 */; };
+		B0DA382026315EB400B8B169 /* Camera 4.8.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA381326315EB400B8B169 /* Camera 4.8.mp4 */; };
+		B0DA382326315EC800B8B169 /* Camera 5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA382226315EC700B8B169 /* Camera 5.mp4 */; };
+		B0DA382926315EE400B8B169 /* Camera 6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA382826315EE400B8B169 /* Camera 6.mp4 */; };
+		B0DA382C2631641B00B8B169 /* Camera 7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA382B2631641B00B8B169 /* Camera 7.mp4 */; };
+		B0DA382E2631765200B8B169 /* WebViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0DA382D2631765200B8B169 /* WebViewVC.swift */; };
 		B0F5A596262FF037008F1FE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A595262FF037008F1FE4 /* AppDelegate.swift */; };
 		B0F5A598262FF037008F1FE4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A597262FF037008F1FE4 /* SceneDelegate.swift */; };
 		B0F5A59D262FF037008F1FE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0F5A59B262FF037008F1FE4 /* Main.storyboard */; };
@@ -15,6 +64,13 @@
 		B0F5A5AD262FF039008F1FE4 /* MediaTeamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5AC262FF039008F1FE4 /* MediaTeamTests.swift */; };
 		B0F5A5B8262FF039008F1FE4 /* MediaTeamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5B7262FF039008F1FE4 /* MediaTeamUITests.swift */; };
 		B0F5A5C9262FF247008F1FE4 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5C8262FF247008F1FE4 /* HomeVC.swift */; };
+		B0F5A5CC262FF82E008F1FE4 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5CB262FF82E008F1FE4 /* CustomCell.swift */; };
+		B0F5A5CE262FF9C3008F1FE4 /* VideoDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5CD262FF9C3008F1FE4 /* VideoDetailsVC.swift */; };
+		B0F5A5D1262FFAC4008F1FE4 /* StoryBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5D0262FFAC4008F1FE4 /* StoryBoard.swift */; };
+		B0F5A5D3262FFACD008F1FE4 /* DesignAbleViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5D2262FFACD008F1FE4 /* DesignAbleViews.swift */; };
+		B0F5A5D726300F84008F1FE4 /* Cam 1 Speaker.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0F5A5D526300F84008F1FE4 /* Cam 1 Speaker.mp4 */; };
+		B0F5A5D826300F84008F1FE4 /* Cam 1 Worship.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0F5A5D626300F84008F1FE4 /* Cam 1 Worship.mp4 */; };
+		B0F5A5DB26303745008F1FE4 /* AllVideos.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A5DA26303745008F1FE4 /* AllVideos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +91,55 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B0DA37C526315E8B00B8B169 /* Cam 2 #8 Zoom Out Left.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #8 Zoom Out Left.mp4"; sourceTree = "<group>"; };
+		B0DA37C626315E8B00B8B169 /* Cam 2 #6 Zoom Out.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #6 Zoom Out.mp4"; sourceTree = "<group>"; };
+		B0DA37C726315E8B00B8B169 /* Cam 2 #4 Zoom In Down.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #4 Zoom In Down.mp4"; sourceTree = "<group>"; };
+		B0DA37C826315E8B00B8B169 /* Cam 2 #10 Zoom Out Down.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #10 Zoom Out Down.mp4"; sourceTree = "<group>"; };
+		B0DA37C926315E8B00B8B169 /* Cam 2 #11 Pan Left to Right.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #11 Pan Left to Right.mp4"; sourceTree = "<group>"; };
+		B0DA37CA26315E8B00B8B169 /* Cam 2 #12 Pan Right to Left.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #12 Pan Right to Left.mp4"; sourceTree = "<group>"; };
+		B0DA37CB26315E8B00B8B169 /* Cam 2 #1 Zoom In.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #1 Zoom In.mp4"; sourceTree = "<group>"; };
+		B0DA37CC26315E8B00B8B169 /* Cam 2 #2 Zoom in Left.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #2 Zoom in Left.mp4"; sourceTree = "<group>"; };
+		B0DA37CD26315E8B00B8B169 /* Cam 2 #7 Zoom Out Right.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #7 Zoom Out Right.mp4"; sourceTree = "<group>"; };
+		B0DA37CE26315E8B00B8B169 /* Cam 2 #15 Standard Sermon Shot.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #15 Standard Sermon Shot.mp4"; sourceTree = "<group>"; };
+		B0DA37CF26315E8B00B8B169 /* Cam 2 #13 Wide Tilt Down.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #13 Wide Tilt Down.mp4"; sourceTree = "<group>"; };
+		B0DA37D026315E8B00B8B169 /* Cam 2 #3 Zoom In Right.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #3 Zoom In Right.mp4"; sourceTree = "<group>"; };
+		B0DA37D126315E8B00B8B169 /* Cam 2 #14 After Video Sermon Push In.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 2 #14 After Video Sermon Push In.mp4"; sourceTree = "<group>"; };
+		B0DA37E026315E9E00B8B169 /* Camera 3.3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.3.mp4"; sourceTree = "<group>"; };
+		B0DA37E126315E9E00B8B169 /* Camera 3.2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.2.mp4"; sourceTree = "<group>"; };
+		B0DA37E226315E9E00B8B169 /* Camera 3.1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.1.mp4"; sourceTree = "<group>"; };
+		B0DA37E326315E9E00B8B169 /* Camera 3.19.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.19.mp4"; sourceTree = "<group>"; };
+		B0DA37E426315E9E00B8B169 /* Camera 3.5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.5.mp4"; sourceTree = "<group>"; };
+		B0DA37E526315E9E00B8B169 /* Camera 3.4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.4.mp4"; sourceTree = "<group>"; };
+		B0DA37E626315E9E00B8B169 /* Camera 3.18.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.18.mp4"; sourceTree = "<group>"; };
+		B0DA37E726315E9E00B8B169 /* Camera 3.6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.6.mp4"; sourceTree = "<group>"; };
+		B0DA37E826315E9E00B8B169 /* Camera 3.7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.7.mp4"; sourceTree = "<group>"; };
+		B0DA37E926315E9E00B8B169 /* Camera 3.16.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.16.mp4"; sourceTree = "<group>"; };
+		B0DA37EA26315E9E00B8B169 /* Camera 3.17.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.17.mp4"; sourceTree = "<group>"; };
+		B0DA37EB26315E9E00B8B169 /* Camera 3.15.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.15.mp4"; sourceTree = "<group>"; };
+		B0DA37EC26315E9E00B8B169 /* Camera 3.9.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.9.mp4"; sourceTree = "<group>"; };
+		B0DA37ED26315E9E00B8B169 /* Camera 3.8.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.8.mp4"; sourceTree = "<group>"; };
+		B0DA37EE26315E9E00B8B169 /* Camera 3.14.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.14.mp4"; sourceTree = "<group>"; };
+		B0DA37EF26315E9E00B8B169 /* Camera 3.10.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.10.mp4"; sourceTree = "<group>"; };
+		B0DA37F026315E9E00B8B169 /* Camera 3.11.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.11.mp4"; sourceTree = "<group>"; };
+		B0DA37F126315E9E00B8B169 /* Camera 3.13.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.13.mp4"; sourceTree = "<group>"; };
+		B0DA37F226315E9E00B8B169 /* Camera 3.12.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 3.12.mp4"; sourceTree = "<group>"; };
+		B0DA380726315EB400B8B169 /* Camera 4.10.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.10.mp4"; sourceTree = "<group>"; };
+		B0DA380826315EB400B8B169 /* Camera 4.11.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.11.mp4"; sourceTree = "<group>"; };
+		B0DA380926315EB400B8B169 /* Camera 4.13.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.13.mp4"; sourceTree = "<group>"; };
+		B0DA380A26315EB400B8B169 /* Camera 4.12.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.12.mp4"; sourceTree = "<group>"; };
+		B0DA380B26315EB400B8B169 /* Camera 4.6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.6.mp4"; sourceTree = "<group>"; };
+		B0DA380C26315EB400B8B169 /* Camera 4.7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.7.mp4"; sourceTree = "<group>"; };
+		B0DA380D26315EB400B8B169 /* Camera 4.5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.5.mp4"; sourceTree = "<group>"; };
+		B0DA380E26315EB400B8B169 /* Camera 4.4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.4.mp4"; sourceTree = "<group>"; };
+		B0DA380F26315EB400B8B169 /* Camera 4.1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.1.mp4"; sourceTree = "<group>"; };
+		B0DA381026315EB400B8B169 /* Camera 4.3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.3.mp4"; sourceTree = "<group>"; };
+		B0DA381126315EB400B8B169 /* Camera 4.2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.2.mp4"; sourceTree = "<group>"; };
+		B0DA381226315EB400B8B169 /* Camera 4.9.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.9.mp4"; sourceTree = "<group>"; };
+		B0DA381326315EB400B8B169 /* Camera 4.8.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 4.8.mp4"; sourceTree = "<group>"; };
+		B0DA382226315EC700B8B169 /* Camera 5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 5.mp4"; sourceTree = "<group>"; };
+		B0DA382826315EE400B8B169 /* Camera 6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 6.mp4"; sourceTree = "<group>"; };
+		B0DA382B2631641B00B8B169 /* Camera 7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 7.mp4"; sourceTree = "<group>"; };
+		B0DA382D2631765200B8B169 /* WebViewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewVC.swift; sourceTree = "<group>"; };
 		B0F5A592262FF037008F1FE4 /* MediaTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MediaTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0F5A595262FF037008F1FE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0F5A597262FF037008F1FE4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +154,13 @@
 		B0F5A5B7262FF039008F1FE4 /* MediaTeamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaTeamUITests.swift; sourceTree = "<group>"; };
 		B0F5A5B9262FF039008F1FE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0F5A5C8262FF247008F1FE4 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		B0F5A5CB262FF82E008F1FE4 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		B0F5A5CD262FF9C3008F1FE4 /* VideoDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDetailsVC.swift; sourceTree = "<group>"; };
+		B0F5A5D0262FFAC4008F1FE4 /* StoryBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryBoard.swift; sourceTree = "<group>"; };
+		B0F5A5D2262FFACD008F1FE4 /* DesignAbleViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DesignAbleViews.swift; sourceTree = "<group>"; };
+		B0F5A5D526300F84008F1FE4 /* Cam 1 Speaker.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 1 Speaker.mp4"; sourceTree = "<group>"; };
+		B0F5A5D626300F84008F1FE4 /* Cam 1 Worship.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cam 1 Worship.mp4"; sourceTree = "<group>"; };
+		B0F5A5DA26303745008F1FE4 /* AllVideos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllVideos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +188,97 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B0DA37C426315E8B00B8B169 /* Cam 2 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA37C526315E8B00B8B169 /* Cam 2 #8 Zoom Out Left.mp4 */,
+				B0DA37C626315E8B00B8B169 /* Cam 2 #6 Zoom Out.mp4 */,
+				B0DA37C726315E8B00B8B169 /* Cam 2 #4 Zoom In Down.mp4 */,
+				B0DA37C826315E8B00B8B169 /* Cam 2 #10 Zoom Out Down.mp4 */,
+				B0DA37C926315E8B00B8B169 /* Cam 2 #11 Pan Left to Right.mp4 */,
+				B0DA37CA26315E8B00B8B169 /* Cam 2 #12 Pan Right to Left.mp4 */,
+				B0DA37CB26315E8B00B8B169 /* Cam 2 #1 Zoom In.mp4 */,
+				B0DA37CC26315E8B00B8B169 /* Cam 2 #2 Zoom in Left.mp4 */,
+				B0DA37CD26315E8B00B8B169 /* Cam 2 #7 Zoom Out Right.mp4 */,
+				B0DA37CE26315E8B00B8B169 /* Cam 2 #15 Standard Sermon Shot.mp4 */,
+				B0DA37CF26315E8B00B8B169 /* Cam 2 #13 Wide Tilt Down.mp4 */,
+				B0DA37D026315E8B00B8B169 /* Cam 2 #3 Zoom In Right.mp4 */,
+				B0DA37D126315E8B00B8B169 /* Cam 2 #14 After Video Sermon Push In.mp4 */,
+			);
+			path = "Cam 2";
+			sourceTree = "<group>";
+		};
+		B0DA37DF26315E9E00B8B169 /* Cam 3 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA37E026315E9E00B8B169 /* Camera 3.3.mp4 */,
+				B0DA37E126315E9E00B8B169 /* Camera 3.2.mp4 */,
+				B0DA37E226315E9E00B8B169 /* Camera 3.1.mp4 */,
+				B0DA37E326315E9E00B8B169 /* Camera 3.19.mp4 */,
+				B0DA37E426315E9E00B8B169 /* Camera 3.5.mp4 */,
+				B0DA37E526315E9E00B8B169 /* Camera 3.4.mp4 */,
+				B0DA37E626315E9E00B8B169 /* Camera 3.18.mp4 */,
+				B0DA37E726315E9E00B8B169 /* Camera 3.6.mp4 */,
+				B0DA37E826315E9E00B8B169 /* Camera 3.7.mp4 */,
+				B0DA37E926315E9E00B8B169 /* Camera 3.16.mp4 */,
+				B0DA37EA26315E9E00B8B169 /* Camera 3.17.mp4 */,
+				B0DA37EB26315E9E00B8B169 /* Camera 3.15.mp4 */,
+				B0DA37EC26315E9E00B8B169 /* Camera 3.9.mp4 */,
+				B0DA37ED26315E9E00B8B169 /* Camera 3.8.mp4 */,
+				B0DA37EE26315E9E00B8B169 /* Camera 3.14.mp4 */,
+				B0DA37EF26315E9E00B8B169 /* Camera 3.10.mp4 */,
+				B0DA37F026315E9E00B8B169 /* Camera 3.11.mp4 */,
+				B0DA37F126315E9E00B8B169 /* Camera 3.13.mp4 */,
+				B0DA37F226315E9E00B8B169 /* Camera 3.12.mp4 */,
+			);
+			path = "Cam 3";
+			sourceTree = "<group>";
+		};
+		B0DA380626315EB400B8B169 /* Cam 4 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA380726315EB400B8B169 /* Camera 4.10.mp4 */,
+				B0DA380826315EB400B8B169 /* Camera 4.11.mp4 */,
+				B0DA380926315EB400B8B169 /* Camera 4.13.mp4 */,
+				B0DA380A26315EB400B8B169 /* Camera 4.12.mp4 */,
+				B0DA380B26315EB400B8B169 /* Camera 4.6.mp4 */,
+				B0DA380C26315EB400B8B169 /* Camera 4.7.mp4 */,
+				B0DA380D26315EB400B8B169 /* Camera 4.5.mp4 */,
+				B0DA380E26315EB400B8B169 /* Camera 4.4.mp4 */,
+				B0DA380F26315EB400B8B169 /* Camera 4.1.mp4 */,
+				B0DA381026315EB400B8B169 /* Camera 4.3.mp4 */,
+				B0DA381126315EB400B8B169 /* Camera 4.2.mp4 */,
+				B0DA381226315EB400B8B169 /* Camera 4.9.mp4 */,
+				B0DA381326315EB400B8B169 /* Camera 4.8.mp4 */,
+			);
+			path = "Cam 4";
+			sourceTree = "<group>";
+		};
+		B0DA382126315EC700B8B169 /* Cam 5 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA382226315EC700B8B169 /* Camera 5.mp4 */,
+			);
+			path = "Cam 5";
+			sourceTree = "<group>";
+		};
+		B0DA382726315EE300B8B169 /* Cam 6 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA382826315EE400B8B169 /* Camera 6.mp4 */,
+			);
+			name = "Cam 6";
+			path = "../../../../Downloads/FL Media Team App (1)/Cam 6";
+			sourceTree = "<group>";
+		};
+		B0DA382A2631641B00B8B169 /* Cam 7 */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA382B2631641B00B8B169 /* Camera 7.mp4 */,
+			);
+			path = "Cam 7";
+			sourceTree = "<group>";
+		};
 		B0F5A589262FF037008F1FE4 = {
 			isa = PBXGroup;
 			children = (
@@ -102,6 +305,9 @@
 				B0F5A595262FF037008F1FE4 /* AppDelegate.swift */,
 				B0F5A597262FF037008F1FE4 /* SceneDelegate.swift */,
 				B0F5A5C5262FF0FA008F1FE4 /* Controllers */,
+				B0F5A5CA262FF806008F1FE4 /* Cell */,
+				B0F5A5CF262FFAB3008F1FE4 /* Extension */,
+				B0F5A5D926300F8F008F1FE4 /* Videos */,
 				B0F5A5C6262FF121008F1FE4 /* StoryBoard */,
 				B0F5A5C7262FF141008F1FE4 /* Other */,
 				B0F5A5A3262FF039008F1FE4 /* Info.plist */,
@@ -131,6 +337,8 @@
 			isa = PBXGroup;
 			children = (
 				B0F5A5C8262FF247008F1FE4 /* HomeVC.swift */,
+				B0F5A5CD262FF9C3008F1FE4 /* VideoDetailsVC.swift */,
+				B0DA382D2631765200B8B169 /* WebViewVC.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -150,6 +358,47 @@
 				B0F5A5A0262FF039008F1FE4 /* LaunchScreen.storyboard */,
 			);
 			path = Other;
+			sourceTree = "<group>";
+		};
+		B0F5A5CA262FF806008F1FE4 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				B0F5A5CB262FF82E008F1FE4 /* CustomCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		B0F5A5CF262FFAB3008F1FE4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				B0F5A5D2262FFACD008F1FE4 /* DesignAbleViews.swift */,
+				B0F5A5D0262FFAC4008F1FE4 /* StoryBoard.swift */,
+				B0F5A5DA26303745008F1FE4 /* AllVideos.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		B0F5A5D426300F84008F1FE4 /* Cam 1 */ = {
+			isa = PBXGroup;
+			children = (
+				B0F5A5D526300F84008F1FE4 /* Cam 1 Speaker.mp4 */,
+				B0F5A5D626300F84008F1FE4 /* Cam 1 Worship.mp4 */,
+			);
+			path = "Cam 1";
+			sourceTree = "<group>";
+		};
+		B0F5A5D926300F8F008F1FE4 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				B0F5A5D426300F84008F1FE4 /* Cam 1 */,
+				B0DA37C426315E8B00B8B169 /* Cam 2 */,
+				B0DA37DF26315E9E00B8B169 /* Cam 3 */,
+				B0DA380626315EB400B8B169 /* Cam 4 */,
+				B0DA382126315EC700B8B169 /* Cam 5 */,
+				B0DA382726315EE300B8B169 /* Cam 6 */,
+				B0DA382A2631641B00B8B169 /* Cam 7 */,
+			);
+			path = Videos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,9 +505,59 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0DA381826315EB400B8B169 /* Camera 4.6.mp4 in Resources */,
+				B0F5A5D826300F84008F1FE4 /* Cam 1 Worship.mp4 in Resources */,
+				B0DA382326315EC800B8B169 /* Camera 5.mp4 in Resources */,
+				B0DA381B26315EB400B8B169 /* Camera 4.4.mp4 in Resources */,
+				B0DA37D626315E8B00B8B169 /* Cam 2 #11 Pan Left to Right.mp4 in Resources */,
+				B0DA381526315EB400B8B169 /* Camera 4.11.mp4 in Resources */,
+				B0DA380326315E9E00B8B169 /* Camera 3.11.mp4 in Resources */,
+				B0DA381A26315EB400B8B169 /* Camera 4.5.mp4 in Resources */,
+				B0DA37D826315E8B00B8B169 /* Cam 2 #1 Zoom In.mp4 in Resources */,
+				B0DA37DC26315E8B00B8B169 /* Cam 2 #13 Wide Tilt Down.mp4 in Resources */,
+				B0DA380526315E9E00B8B169 /* Camera 3.12.mp4 in Resources */,
+				B0DA381E26315EB400B8B169 /* Camera 4.2.mp4 in Resources */,
+				B0DA37D726315E8B00B8B169 /* Cam 2 #12 Pan Right to Left.mp4 in Resources */,
+				B0DA37F926315E9E00B8B169 /* Camera 3.18.mp4 in Resources */,
+				B0DA37DA26315E8B00B8B169 /* Cam 2 #7 Zoom Out Right.mp4 in Resources */,
+				B0DA37FA26315E9E00B8B169 /* Camera 3.6.mp4 in Resources */,
+				B0DA37D226315E8B00B8B169 /* Cam 2 #8 Zoom Out Left.mp4 in Resources */,
+				B0DA381D26315EB400B8B169 /* Camera 4.3.mp4 in Resources */,
 				B0F5A5A2262FF039008F1FE4 /* LaunchScreen.storyboard in Resources */,
+				B0DA381626315EB400B8B169 /* Camera 4.13.mp4 in Resources */,
+				B0DA37F626315E9E00B8B169 /* Camera 3.19.mp4 in Resources */,
+				B0DA380226315E9E00B8B169 /* Camera 3.10.mp4 in Resources */,
+				B0DA37F726315E9E00B8B169 /* Camera 3.5.mp4 in Resources */,
+				B0F5A5D726300F84008F1FE4 /* Cam 1 Speaker.mp4 in Resources */,
+				B0DA37F826315E9E00B8B169 /* Camera 3.4.mp4 in Resources */,
+				B0DA37DD26315E8B00B8B169 /* Cam 2 #3 Zoom In Right.mp4 in Resources */,
+				B0DA380026315E9E00B8B169 /* Camera 3.8.mp4 in Resources */,
+				B0DA37FC26315E9E00B8B169 /* Camera 3.16.mp4 in Resources */,
+				B0DA381726315EB400B8B169 /* Camera 4.12.mp4 in Resources */,
 				B0F5A59F262FF039008F1FE4 /* Assets.xcassets in Resources */,
+				B0DA37F526315E9E00B8B169 /* Camera 3.1.mp4 in Resources */,
+				B0DA380126315E9E00B8B169 /* Camera 3.14.mp4 in Resources */,
+				B0DA382C2631641B00B8B169 /* Camera 7.mp4 in Resources */,
+				B0DA37FB26315E9E00B8B169 /* Camera 3.7.mp4 in Resources */,
+				B0DA382026315EB400B8B169 /* Camera 4.8.mp4 in Resources */,
+				B0DA37D326315E8B00B8B169 /* Cam 2 #6 Zoom Out.mp4 in Resources */,
+				B0DA381C26315EB400B8B169 /* Camera 4.1.mp4 in Resources */,
+				B0DA37DE26315E8B00B8B169 /* Cam 2 #14 After Video Sermon Push In.mp4 in Resources */,
+				B0DA37FD26315E9E00B8B169 /* Camera 3.17.mp4 in Resources */,
+				B0DA37FF26315E9E00B8B169 /* Camera 3.9.mp4 in Resources */,
+				B0DA382926315EE400B8B169 /* Camera 6.mp4 in Resources */,
+				B0DA381F26315EB400B8B169 /* Camera 4.9.mp4 in Resources */,
+				B0DA381926315EB400B8B169 /* Camera 4.7.mp4 in Resources */,
+				B0DA37F326315E9E00B8B169 /* Camera 3.3.mp4 in Resources */,
+				B0DA380426315E9E00B8B169 /* Camera 3.13.mp4 in Resources */,
+				B0DA381426315EB400B8B169 /* Camera 4.10.mp4 in Resources */,
+				B0DA37D426315E8B00B8B169 /* Cam 2 #4 Zoom In Down.mp4 in Resources */,
 				B0F5A59D262FF037008F1FE4 /* Main.storyboard in Resources */,
+				B0DA37D926315E8B00B8B169 /* Cam 2 #2 Zoom in Left.mp4 in Resources */,
+				B0DA37F426315E9E00B8B169 /* Camera 3.2.mp4 in Resources */,
+				B0DA37DB26315E8B00B8B169 /* Cam 2 #15 Standard Sermon Shot.mp4 in Resources */,
+				B0DA37FE26315E9E00B8B169 /* Camera 3.15.mp4 in Resources */,
+				B0DA37D526315E8B00B8B169 /* Cam 2 #10 Zoom Out Down.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +583,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0F5A5C9262FF247008F1FE4 /* HomeVC.swift in Sources */,
+				B0F5A5CE262FF9C3008F1FE4 /* VideoDetailsVC.swift in Sources */,
+				B0DA382E2631765200B8B169 /* WebViewVC.swift in Sources */,
 				B0F5A596262FF037008F1FE4 /* AppDelegate.swift in Sources */,
+				B0F5A5CC262FF82E008F1FE4 /* CustomCell.swift in Sources */,
+				B0F5A5D1262FFAC4008F1FE4 /* StoryBoard.swift in Sources */,
+				B0F5A5DB26303745008F1FE4 /* AllVideos.swift in Sources */,
+				B0F5A5D3262FFACD008F1FE4 /* DesignAbleViews.swift in Sources */,
 				B0F5A598262FF037008F1FE4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -466,7 +771,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.driv.MediaTeam;
+				PRODUCT_BUNDLE_IDENTIFIER = com.media.team;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -485,7 +790,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.driv.MediaTeam;
+				PRODUCT_BUNDLE_IDENTIFIER = com.media.team;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
