@@ -56,6 +56,7 @@
 		B0DA382926315EE400B8B169 /* Camera 6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA382826315EE400B8B169 /* Camera 6.mp4 */; };
 		B0DA382C2631641B00B8B169 /* Camera 7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B0DA382B2631641B00B8B169 /* Camera 7.mp4 */; };
 		B0DA382E2631765200B8B169 /* WebViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0DA382D2631765200B8B169 /* WebViewVC.swift */; };
+		B0DA38322631825800B8B169 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0DA38302631823800B8B169 /* WebKit.framework */; };
 		B0F5A596262FF037008F1FE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A595262FF037008F1FE4 /* AppDelegate.swift */; };
 		B0F5A598262FF037008F1FE4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F5A597262FF037008F1FE4 /* SceneDelegate.swift */; };
 		B0F5A59D262FF037008F1FE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0F5A59B262FF037008F1FE4 /* Main.storyboard */; };
@@ -140,6 +141,7 @@
 		B0DA382826315EE400B8B169 /* Camera 6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 6.mp4"; sourceTree = "<group>"; };
 		B0DA382B2631641B00B8B169 /* Camera 7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Camera 7.mp4"; sourceTree = "<group>"; };
 		B0DA382D2631765200B8B169 /* WebViewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewVC.swift; sourceTree = "<group>"; };
+		B0DA38302631823800B8B169 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		B0F5A592262FF037008F1FE4 /* MediaTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MediaTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0F5A595262FF037008F1FE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0F5A597262FF037008F1FE4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0DA38322631825800B8B169 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +282,14 @@
 			path = "Cam 7";
 			sourceTree = "<group>";
 		};
+		B0DA382F2631823800B8B169 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B0DA38302631823800B8B169 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B0F5A589262FF037008F1FE4 = {
 			isa = PBXGroup;
 			children = (
@@ -286,6 +297,7 @@
 				B0F5A5AB262FF039008F1FE4 /* MediaTeamTests */,
 				B0F5A5B6262FF039008F1FE4 /* MediaTeamUITests */,
 				B0F5A593262FF037008F1FE4 /* Products */,
+				B0DA382F2631823800B8B169 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
